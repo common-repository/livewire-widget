@@ -1,0 +1,17 @@
+#panel-overview h2, .panel-body{
+    margin: 0;
+    padding: 12px 0 12px 15px;
+    font-size: 16px;
+    cursor: text;
+  }
+
+  .steps_list li{  
+    margin: 8px 0;
+    list-style-type: disc;
+    font-size:13px;
+  }
+
+  .steps_list{
+    padding-left: 28px;
+    padding-bottom: 8px;
+  }
